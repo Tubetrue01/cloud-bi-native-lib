@@ -1,6 +1,8 @@
 ### C template
 # CMake
 cmake-build-debug
+build
+
 # Prerequisites
 *.d
 
